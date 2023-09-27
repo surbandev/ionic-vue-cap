@@ -1,0 +1,8 @@
+{
+  "name": "IonicVueCap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "378126f3"
+}
